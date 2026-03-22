@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Aadi Jain! 👋
+
+### 🎓 Education
+* **Branch:** Computer Science & Engineering (B.Tech)
+* **Year:** 1st Year (2025-2029)
+
+### 🎯 Goal
+I hope to deepen my understanding of how Artificial Intelligence and Machine Learning can be integrated with modern web architectures to solve real-world problems.
+
 
 <!--
 **aadi25bce10331-netizen/aadi25bce10331-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
